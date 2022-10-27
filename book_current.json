@@ -1,0 +1,19 @@
+{
+  "title": "Android逆向开发",
+  "description": "介绍Android逆向开发相关的内容。包括逆向的核心思路；以及Hook插件与开发，包括Xposed、Cydia Substrace，以及其插件Android-OpenDebug、Introspy-Android；以及其他心得，包括adb、文件管理、文件管理器、相关资料；以及其他相关子教程。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "android_reverse_dev"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/android_reverse_dev/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/android_reverse_dev/pdf/android_reverse_dev.pdf"
+    }
+  }
+}
