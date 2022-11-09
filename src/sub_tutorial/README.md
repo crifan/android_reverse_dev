@@ -15,8 +15,5 @@ TODO：
       * 辅助用`frida`配合调试逻辑
     * 详见
       * [Android逆向：动态调试 (crifan.org)](https://book.crifan.org/books/android_re_dynamic_debug/website/)
-  * 【整理Book】Android逆向：重新打包apk
-  * 考虑是否单独出子教程
-    * 安卓root
-      * TWRP
-      * Magisk
+  * [Android逆向：重新打包apk (crifan.org)](https://book.crifan.org/books/android_re_repack_apk/website/)
+  * [Android逆向：开启root (crifan.org)](https://book.crifan.org/books/android_re_enable_root/website/)
