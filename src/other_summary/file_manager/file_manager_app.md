@@ -2,15 +2,19 @@
 
 TODO：
 
-* 【已解决】安卓中把微信传输收到的apk.1改名为apk去掉.1的后缀
 * 【已解决】安卓手机Google Pixel3用文件管理管理文件
-* 【已解决】安卓手机Google Pixel3中用ES文件管理器安装youtube的apk
-* 【已解决】安卓手机中安装YouTube的apk报错：应用未安装
 * 【已解决】安卓手机中打开log日志文件查看内容
 * 【部分解决】安卓手机Google Pixel3中用RE文件管理器拷贝和移动文件夹
 * 【已解决】导出安卓手机Google Pixel3中的文件
 * 【未解决】安卓手机Google Pixel3中用ES文件管理器拷贝和移动文件夹
-* 
+* apk安装
+  * 【已解决】安卓手机中安装YouTube的apk报错：应用未安装
+  * 【已解决】安卓中把微信传输收到的apk.1改名为apk去掉.1的后缀
+  * 【无需解决】Android 9的Google Pixel3中安装apk报错应用未安装：可能和sdkVersion有关
+  * 【已解决】安卓手机Google Pixel3中用ES文件管理器安装youtube的apk
+  * 【已解决】Google Pixel3中如何彻底卸载提示未针对此用户安装的YouTube应用
+  * 【已解决】安卓手机Google Pixel3中安装apk应用
+  * 【未解决】用腾讯手机管家的APK安装器安装安卓apk应用
 
 ---
 
