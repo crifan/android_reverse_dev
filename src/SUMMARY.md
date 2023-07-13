@@ -2,7 +2,7 @@
 
 * [前言](README.md)
 * [概览](overview/README.md)
-* [逆向核心思路](core_clue/README.md)
+* [Android逆向核心思路](core_clue/README.md)
 * [hook插件与开发](hook_tweak_dev/README.md)
   * [XPosed](hook_tweak_dev/xposed.md)
   * [Cydia Substrate](hook_tweak_dev/cydia_substrate/README.md)
