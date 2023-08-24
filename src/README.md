@@ -1,11 +1,11 @@
 # Android逆向开发
 
-* 最新版本：`v0.8`
-* 更新时间：`20230713`
+* 最新版本：`v0.9`
+* 更新时间：`20230824`
 
 ## 简介
 
-介绍Android逆向开发相关的内容。包括逆向的核心思路；以及Hook插件与开发，包括Xposed、Cydia Substrace，以及其插件Android-OpenDebug、Introspy-Android；以及其他心得，包括adb、文件管理、文件管理器、相关资料；以及其他相关子教程。
+介绍Android逆向开发相关的内容。包括安卓逆向开发的典型流程图和脑图、安卓逆向的核心思路；以及Hook插件与开发，包括Xposed、Cydia Substrace，以及其插件Android-OpenDebug、Introspy-Android；以及其他心得，包括adb、文件管理、文件管理器、相关资料；以及其他相关子教程。
 
 ## 源码+浏览+下载
 
