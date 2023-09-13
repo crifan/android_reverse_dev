@@ -5,6 +5,9 @@
 * 【整理】安卓逆向：开发心得
 * 【整理】adb命令语法帮助信息
 * 
+* [Android逆向：重新打包apk](https://book.crifan.org/books/android_re_repack_apk/website/)
+* [Android逆向：静态分析](https://book.crifan.org/books/android_re_static_analysis/website/)
+* 
 * [Creating a URL (The Java™ Tutorials > Custom Networking > Working with URLs) (oracle.com)](https://docs.oracle.com/javase/tutorial/networking/urls/creatingUrls.html)
 * [Java URL class- javatpoint](https://www.javatpoint.com/URL-class)
 * [A Simple Guide to the Java URL | Baeldung](https://www.baeldung.com/java-url)
