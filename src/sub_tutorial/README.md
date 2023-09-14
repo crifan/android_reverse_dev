@@ -14,6 +14,6 @@
       * 安卓模拟器
         * [好用的安卓模拟器：夜神Nox](https://book.crifan.com/books/good_android_emulator_nox/website/)
       * 框架
-        * [强大的安卓破解辅助工具：XPosed框架](https://book.crifan.com/books/crack_assistant_xposed_framework/website/)
+        * [安卓逆向调试：XPosed框架](https://book.crifan.com/books/android_re_xposed_framework/website/)
       * 代码
         * [crifan/AndroidYouTubeDynamicDebug: 安卓逆向动态调试YouTube](https://github.com/crifan/AndroidYouTubeDynamicDebug)

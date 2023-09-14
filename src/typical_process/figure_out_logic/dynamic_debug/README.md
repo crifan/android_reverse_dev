@@ -16,9 +16,9 @@
         * Magisk插件：`MagiskFrida`
     * 调试lldb：`LLDB`
     * 调试Xposed插件
-      * [XPosed](https://book.crifan.org/books/crack_assistant_xposed_framework/website/)
-      * `EdXposed`
-      * `LSPosed`
+      * [XPosed](https://book.crifan.org/books/android_re_xposed_framework/website/)
+        * [EdXposed](https://book.crifan.org/books/android_re_xposed_framework/website/install_xposed/edxposed_manager/)
+        * [LSPosed](https://book.crifan.org/books/android_re_xposed_framework/website/install_xposed/lsposed/)
     * 模拟代码执行
       * `Unidbg`
         * `Unicorn`
