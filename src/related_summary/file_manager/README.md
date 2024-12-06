@@ -14,6 +14,7 @@ TODO：
 ## 文件上传和下载=导入导出文件
 
 * 用文件管理器
+  * `文件极客`
 * 用命令：adb
   * 导出文件
     ```bash
@@ -40,7 +41,7 @@ TODO：
   * 文件极客
     * ![sdcard_download_files_ui](../../assets/img/sdcard_download_files_ui.png)
 * 命令行
-  * adb shell
+  * `adb shell`
     ```bash
     crifan@licrifandeMacBook-Pro  ~/dev/dev_tool/android/EdXposed  adb shell
     blueline:/ $ whoami

@@ -13,8 +13,11 @@
       * [Android逆向：重新打包apk](https://book.crifan.org/books/android_re_repack_apk/website/)
     * 相关
       * 安卓模拟器
-        * [好用的安卓模拟器：夜神Nox](https://book.crifan.com/books/good_android_emulator_nox/website/)
+        * [好用的安卓模拟器：夜神Nox](https://book.crifan.org/books/good_android_emulator_nox/website/)
       * 框架
-        * [安卓逆向调试：XPosed框架](https://book.crifan.com/books/android_re_xposed_framework/website/)
+        * [安卓逆向调试：XPosed框架](https://book.crifan.org/books/android_re_xposed_framework/website/)
       * 代码
-        * [crifan/AndroidYouTubeDynamicDebug: 安卓逆向动态调试YouTube](https://github.com/crifan/AndroidYouTubeDynamicDebug)
+        * Xposed
+            * [crifan/CrifanXposedHook: Xposed Module plugin demo project of Android Studio (github.com)](https://github.com/crifan/CrifanXposedHook)
+        * 动态调试
+          * [crifan/AndroidYouTubeDynamicDebug: 安卓逆向动态调试YouTube](https://github.com/crifan/AndroidYouTubeDynamicDebug)

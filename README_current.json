@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v1.1.0",
-  "lastUpdate": "20231004",
+  "latestVersion": "v1.2.0",
+  "lastUpdate": "20241206",
   "gitRepoName": "android_reverse_dev",
   "bookName": "Android逆向开发",
   "bookDescription": "介绍Android逆向开发相关的内容。包括安卓逆向开发的典型流程图和脑图、安卓逆向的核心思路；以及Hook插件与开发，包括Xposed、Cydia Substrace，以及其插件Android-OpenDebug、Introspy-Android；以及其他心得，包括adb、文件管理、文件管理器、相关资料；以及其他相关子教程。"

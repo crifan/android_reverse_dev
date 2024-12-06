@@ -11,7 +11,6 @@
   * [输出结果](typical_process/reverse_output/README.md)
     * [重新打包apk](typical_process/reverse_output/repack_apk/README.md)
 * [相关工具](related_tool/README.md)
-  * [adb](related_tool/adb.md)
 * [相关心得](related_summary/README.md)
   * [文件管理](related_summary/file_manager/README.md)
     * [文件管理器](related_summary/file_manager/file_manager_app.md)

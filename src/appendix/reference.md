@@ -3,7 +3,6 @@
 * YouTube 安卓逆向 逆向思路
 * 【整理】安卓逆向：相关资料
 * 【整理】安卓逆向：开发心得
-* 【整理】adb命令语法帮助信息
 * 
 * [Android逆向：重新打包apk](https://book.crifan.org/books/android_re_repack_apk/website/)
 * [Android逆向：静态分析](https://book.crifan.org/books/android_re_static_analysis/website/)
