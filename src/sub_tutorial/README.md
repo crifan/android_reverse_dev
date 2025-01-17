@@ -3,6 +3,14 @@
 * 父教程
   * [安卓应用的安全和破解](https://book.crifan.org/books/android_app_security_crack/website/)
 * 子教程
+  * 通用
+    * [可执行文件格式](https://book.crifan.org/books/executable_file_format/website/)
+      * [可执行文件格式：ELF](https://book.crifan.org/books/exec_file_format_elf/website/)
+    * 调试
+      * [逆向调试利器：Frida](https://book.crifan.org/books/reverse_debug_frida/website/)
+        * [Frida逆向实例和工具函数](https://book.crifan.org/books/frida_re_example_function/website/)
+        * [移动端调试利器：Objection](https://book.crifan.org/books/mobile_reverse_debug_objection/website/)
+      * [主流调试器：LLDB](https://book.crifan.org/books/popular_debugger_lldb/website/)
   * 逆向
     * [Android逆向开发](https://book.crifan.org/books/android_reverse_dev/website/)
       * [Android逆向：开启root](https://book.crifan.org/books/android_re_enable_root/website/)
@@ -10,14 +18,22 @@
         * [安卓逆向利器：JEB](https://book.crifan.org/books/android_re_tool_jeb/website/)
         * [安卓反编译利器：jadx](https://book.crifan.org/books/android_re_decompile_jadx/website/)
       * [Android逆向：动态调试](https://book.crifan.org/books/android_re_dynamic_debug/website/)
+        * [安卓逆向调试：XPosed框架](https://book.crifan.org/books/android_re_xposed_framework/website/)
       * [Android逆向：重新打包apk](https://book.crifan.org/books/android_re_repack_apk/website/)
     * 相关
+      * 代码
+        * Xposed插件模板演示项目
+          * https://github.com/crifan/CrifanXposedHook
+        * 安卓逆向动态调试Smali示例项目：YouTube
+          * https://github.com/crifan/AndroidYouTubeDynamicDebug
+        * 安卓保活演示项目
+          * https://github.com/crifan/KeepAliveAndroid
+      * 工具
+        * [安卓自动化工具：adb](https://book.crifan.org/books/android_auto_tool_adb/website/)
       * 安卓模拟器
         * [好用的安卓模拟器：夜神Nox](https://book.crifan.org/books/good_android_emulator_nox/website/)
-      * 框架
-        * [安卓逆向调试：XPosed框架](https://book.crifan.org/books/android_re_xposed_framework/website/)
-      * 代码
-        * Xposed
-            * [crifan/CrifanXposedHook: Xposed Module plugin demo project of Android Studio (github.com)](https://github.com/crifan/CrifanXposedHook)
-        * 动态调试
-          * [crifan/AndroidYouTubeDynamicDebug: 安卓逆向动态调试YouTube](https://github.com/crifan/AndroidYouTubeDynamicDebug)
+        * 【整理Book】流畅的安卓模拟器：网易Mumu
+      * 子领域
+        * [安卓保活技术](https://book.crifan.org/books/android_keep_alive_tech/website/)
+      * 正向开发
+        * [Android开发总结](https://book.crifan.org/books/android_dev_summary/website/)
