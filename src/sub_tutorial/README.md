@@ -34,6 +34,7 @@
         * [好用的安卓模拟器：夜神Nox](https://book.crifan.org/books/good_android_emulator_nox/website/)
         * 【整理Book】流畅的安卓模拟器：网易Mumu
       * 子领域
+        * [安卓逆向：Root环境检测及绕过](https://book.crifan.org/books/android_re_root_env_detect_bypass/website)
         * [安卓保活技术](https://book.crifan.org/books/android_keep_alive_tech/website/)
       * 正向开发
         * [Android开发总结](https://book.crifan.org/books/android_dev_summary/website/)
