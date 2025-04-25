@@ -15,17 +15,18 @@ TODO：
 
 * 用文件管理器
   * `文件极客`
-* 用命令：adb
-  * 导出文件
-    ```bash
-    adb pull /mnt/sdcard/Download/com.lanyou.bydwj.ikk/ .
-    ```
-  * 导入文件
-    ```bash
-    adb push boot.img /sdcard/Download/boot.img
-
-    adb push riru-v25.4.4-debug.zip /sdcard/Download
-    ```
+* 用命令：`adb`
+  * 概述
+    * （从安卓中）导出文件
+      ```bash
+      adb pull <remote_android> [<local_pc>]
+      ```
+    * 导入文件（到安卓中）
+      ```bash
+      adb push <local_pc> <remote_android>
+      ```
+  * 详解
+    * [安卓自动化工具：adb](https://book.crifan.org/books/android_auto_tool_adb/website/)
 
 ## 文件目录的关系
 
