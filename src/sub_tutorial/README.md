@@ -4,16 +4,43 @@
   * [安卓应用的安全和破解](https://book.crifan.org/books/android_app_security_crack/website/)
 * 子教程
   * 通用
+    * 编程语言
+      * [最流行汇编语言：ARM](https://book.crifan.org/books/popular_assembly_arm/website/)
     * [可执行文件格式](https://book.crifan.org/books/executable_file_format/website/)
       * [可执行文件格式：ELF](https://book.crifan.org/books/exec_file_format_elf/website/)
-    * 调试
+    * 数据（传输）格式
+      * [移动端逆向：通用数据格式Protobuf](https://book.crifan.org/books/mobile_re_format_protobuf/website/)
+    * 抓包
+      * [Charles](https://book.crifan.org/books/app_capture_package_tool_charles/website/)
+      * [移动端逆向：绕过抓包限制](https://book.crifan.org/books/mobile_re_capture_bypass_limit/website/)
+    * 静态分析
+      * [逆向利器：IDA](https://book.crifan.org/books/reverse_tool_ida/website/)
+        * [IDA插件脚本：IDAPython](https://book.crifan.org/books/ida_plugin_script_idapython/website)
+      * 代码
+        * [crifan/crifanLibPythonIDA](https://github.com/crifan/crifanLibPythonIDA)
+        * [crifan/crifanIDAPluginTemplate](https://github.com/crifan/crifanIDAPluginTemplate)
+    * 动态调试
       * [逆向调试利器：Frida](https://book.crifan.org/books/reverse_debug_frida/website/)
         * [Frida逆向实例和工具函数](https://book.crifan.org/books/frida_re_example_function/website/)
+        * Frida调试
+          * [Frida调试经验总结](https://book.crifan.org/books/frida_debug_summary/website/)
+            * [Frida调试iOS经验总结](https://book.crifan.org/books/frida_debug_ios_summary/website/)
+            * [Frida调试Android经验总结](https://book.crifan.org/books/frida_debug_android_summary/website/)
+          * [Frida高级调试：Stalker](https://book.crifan.org/books/frida_advanced_debug_stalker/website/)
+        * 代码
+          * [crifan/JsFridaUtil/](https://github.com/crifan/JsFridaUtil/)
+          * [crifan/FridaHookTemplate](https://github.com/crifan/FridaHookTemplate)
+          * [crifan/AutoGenFridaHookAndroidCode](https://github.com/crifan/AutoGenFridaHookAndroidCode)
         * [移动端调试利器：Objection](https://book.crifan.org/books/mobile_reverse_debug_objection/website/)
       * [主流调试器：LLDB](https://book.crifan.org/books/popular_debugger_lldb/website/)
-  * 逆向
+      * 高级调试
+        * 代码混淆
+          * [高级逆向：混淆和反混淆](https://book.crifan.org/books/adv_re_obf_deobf/website/)
+          * [移动端逆向：代码混淆和反代码混淆](https://book.crifan.org/books/mobile_re_obfuscation_anti/website/)
+  * 安卓逆向
     * [Android逆向开发](https://book.crifan.org/books/android_reverse_dev/website/)
       * [Android逆向：开启root](https://book.crifan.org/books/android_re_enable_root/website/)
+        * [安卓逆向：Root环境检测及绕过](https://book.crifan.org/books/android_re_root_env_detect_bypass/website)
       * [Android逆向：静态分析](https://book.crifan.org/books/android_re_static_analysis/website/)
         * [安卓逆向利器：JEB](https://book.crifan.org/books/android_re_tool_jeb/website/)
         * [安卓反编译利器：jadx](https://book.crifan.org/books/android_re_decompile_jadx/website/)
@@ -22,19 +49,18 @@
       * [Android逆向：重新打包apk](https://book.crifan.org/books/android_re_repack_apk/website/)
     * 相关
       * 代码
-        * Xposed插件模板演示项目
-          * https://github.com/crifan/CrifanXposedHook
-        * 安卓逆向动态调试Smali示例项目：YouTube
-          * https://github.com/crifan/AndroidYouTubeDynamicDebug
+        * Xposed插件模板
+          * [crifan/CrifanXposedHook](https://github.com/crifan/CrifanXposedHook)
+        * Smali动态调试示例：YouTube
+          * [crifan/AndroidYouTubeDynamicDebug](https://github.com/crifan/AndroidYouTubeDynamicDebug)
         * 安卓保活演示项目
-          * https://github.com/crifan/KeepAliveAndroid
+          * [crifan/KeepAliveAndroid](https://github.com/crifan/KeepAliveAndroid)
       * 工具
         * [安卓自动化工具：adb](https://book.crifan.org/books/android_auto_tool_adb/website/)
       * 安卓模拟器
         * [好用的安卓模拟器：夜神Nox](https://book.crifan.org/books/good_android_emulator_nox/website/)
         * 【整理Book】流畅的安卓模拟器：网易Mumu
       * 子领域
-        * [安卓逆向：Root环境检测及绕过](https://book.crifan.org/books/android_re_root_env_detect_bypass/website)
         * [安卓保活技术](https://book.crifan.org/books/android_keep_alive_tech/website/)
       * 正向开发
         * [Android开发总结](https://book.crifan.org/books/android_dev_summary/website/)
